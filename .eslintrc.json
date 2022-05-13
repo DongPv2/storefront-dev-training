@@ -1,0 +1,12 @@
+{
+  "extends": ["next", "prettier"],
+  "settings": {
+    "next": {
+      "rootDir": "packages/storefront-dev-training/"
+    }
+  },
+  "rules": {
+    "@next/next/no-img-element": "off",
+    "react/display-name": "error"
+  }
+}
