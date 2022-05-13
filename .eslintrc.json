@@ -7,6 +7,9 @@
   },
   "rules": {
     "@next/next/no-img-element": "off",
-    "react/display-name": "error"
+    "react/hook-use-state": "error",
+    "no-unused-vars":"warn",
+    "no-debugger": "warn",
+    "no-console": "warn"
   }
 }
