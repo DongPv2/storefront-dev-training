@@ -1,0 +1,11 @@
+.box {
+    background: #fff;
+    border: 1px solid #d3d5d7;
+    display: flex;
+    justify-content: center;
+    .section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
